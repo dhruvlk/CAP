@@ -1,0 +1,7 @@
+
+[07-May-2022 06:57:10 UTC] PHP Notice:  Undefined index: c_email in /home/wwwartinmind/public_html/Demo/CAP/CAP/College/header.php on line 355
+[07-May-2022 07:01:33 UTC] PHP Notice:  Undefined variable: c_id in /home/wwwartinmind/public_html/Demo/CAP/CAP/College/students_tbl.php on line 91
+[07-May-2022 07:02:00 UTC] PHP Notice:  Undefined variable: c_id in /home/wwwartinmind/public_html/Demo/CAP/CAP/College/students_tbl.php on line 91
+[07-May-2022 07:02:10 UTC] PHP Notice:  Undefined variable: c_id in /home/wwwartinmind/public_html/Demo/CAP/CAP/College/students_tbl.php on line 91
+[07-May-2022 07:02:10 UTC] PHP Notice:  Undefined variable: c_id in /home/wwwartinmind/public_html/Demo/CAP/CAP/College/students_tbl.php on line 91
+[07-May-2022 07:02:10 UTC] PHP Notice:  Undefined variable: c_id in /home/wwwartinmind/public_html/Demo/CAP/CAP/College/students_tbl.php on line 91
